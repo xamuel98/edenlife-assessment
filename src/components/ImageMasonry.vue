@@ -46,6 +46,6 @@ const loadData = async $state => {
     </div>
 </template>
 
-<style>
+<style scoped lang="scss">
 
 </style>
